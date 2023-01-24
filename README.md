@@ -1,4 +1,4 @@
-# python_examples
+# Automation and Mining
 
 ## Fuzzy Find Algorithm
 
