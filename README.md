@@ -2,17 +2,18 @@
 
 ## Fuzzy Find Algorithm
 
-- includes a closest word lookup function that i created in my masters class
-- it worked about 95% of the time to convert back pay deduction or benefits to current pay codes 
-- pivots row based transactional data and sums data where needed for transactions to combine specific codes 
+- Includes a fuzzy find proprietary function
+- Converts back pay deduction or benefits to current pay codes 
+- Pivots row based transactional data and sums data where needed for transactions to combine specific codes 
 
 ## Data Automation 
 
-- includes multiple merges, pivots and concatenations to provide the right data. 
-- Some merges/concatenation could have been done specifically in SQL,but seeing the data laid out in this way helped Stakeholders understand the flow of the data better
-- Manipulates strings, numbers, fills in missing cells etc...
+- Includes multiple merges, pivots and concatenations for data engineering from one platform to another. 
+- The data is saved and manipulated in a way that allows users to have a better understanding of each step.
+- Completes additional data cleaning steps.
+- It allowed a potentially manual platform transition to an automated one saving hundreds of hours.
 
 ## Excel Manipulation
 
-- Takes a complex set of worksheets from a workbook and combines them, manipulates them to fill into a import file
-- it outputs both the per client files and the full file. This is import to redo any incorrect time information that the client has sent. 
+- Takes multiple excel sheets as input with built flexibility for maintaining data quality, and outputs a file for a new platform.
+- It allowed my team to Automate a payroll task from 2 days of labor to 4 hours. 
